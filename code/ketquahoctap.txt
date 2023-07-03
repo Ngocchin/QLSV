@@ -1,0 +1,14 @@
+BANG DIEM SINH VIEN
+MA SVMA DT               TEN DT    DIEM BC   DIEM CDDIEM TB
+1    2033200144                    MMT3                DetaiMMT3                    7         9         8
+2    2033200133                    MMT1                DetaiMMT1                    8         9         7
+3    2033200131                    MMT2                DetaiMMT2                    5         5         5
+4    2033200130                    MMT2                DetaiMMT2                    7         7         7
+5    2033200144                    HDH2                DetaiHDH2                    7         8         8
+6    2033200133                    HDH3                DetaiHDH3                    8         9        10
+7    2033200131                    HDH1                DetaiHDH1                    8         7         9
+8    2033200130                    HDH2                DetaiHDH2                    9         9         9
+9    2033200144                    CTGL&GT2            DetaiCTGL&GT2                7         8         6
+10   2033200133                    CTGL&GT3            DetaiCTGL&GT3               10        10        10
+11   2033200131                    CTGL&GT2            DetaiCTGL&GT2                9         9         9
+12   2033200130                    CTGL&GT1            DetaiCTGL&GT1                6         6         6
